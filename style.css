@@ -45,7 +45,7 @@ div.dt, div.dd {
 
 div.dt {
 	display: table;
-	width: 100%;
+	min-width: 100%;
 }
 
 div.dr {
