@@ -89,3 +89,7 @@ div.dr > :nth-child(odd):after, div.dd > :nth-child(odd):after {
 .line :last-child {
     float: right;
 }
+
+.gray {
+	color: #aaa;
+}
